@@ -1,0 +1,18 @@
+How to Play:
+
+Movement:
+  - Use the W key to move up.
+  - Use the A key to move left.
+  - Use the S key to move down.
+  - Use the D key to move right.
+  
+Engaging in Combat:
+  - When you're close to an Goblin (G), a duel will automatically begin. Keep an eye on health of both the player (P) and enemy to win the battle.
+  - Multiple enemies can be in the dungeon at the same time, so be ready for multiple encounters!
+
+Objective:
+  - Your goal is to defeat a certain number of enemies before facing the final boss NEMESIS (N).
+  - Once you defeat the final boss, you level up and earn special rewards.
+
+Escaping the Game:
+  - Press ESC at any time to terminate the game.

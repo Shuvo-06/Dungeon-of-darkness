@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1744786190 source:c:\users\user\desktop\dungeon of darkness\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdbool.h>
+	<conio.h>
+	"tools.h"
+	"login.h"
+	"game_function.h"
+
+1744785647 source:c:\users\user\desktop\dungeon of darkness\tools.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<stdarg.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	"tools.h"
+
+1744785285 c:\users\user\desktop\dungeon of darkness\tools.h
+	<stdbool.h>
+
+1744784525 source:c:\users\user\desktop\dungeon of darkness\game_function.c
+	<stdio.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	"game_function.h"
+	"tools.h"
+
+1744784555 c:\users\user\desktop\dungeon of darkness\game_function.h
+	<stdbool.h>
+	"tools.h"
+
+1744786807 source:c:\users\user\desktop\dungeon of darkness\login.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	"tools.h"
+
+1737823894 c:\users\user\desktop\dungeon of darkness\login.h
+	<stdbool.h>
+	"tools.h"
+
+1744784483 source:c:\users\user\desktop\dungeon of darkness\game_options.c
+	<stdio.h>
+	"tools.h"
+
+1738003229 c:\users\user\desktop\dungeon of darkness\admin_panel.h
+
+1743750661 source:c:\users\user\desktop\dungeon of darkness\admin_panel.c
+	"tools.h"
+	<stdio.h>
+	<string.h>
+
